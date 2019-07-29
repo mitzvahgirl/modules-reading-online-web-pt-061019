@@ -5,9 +5,8 @@ class Dancer
   include Dance
   
   class Dancer
-  extend MetaDancing
+    extend MetaDancing
 end
-  
   
   attr_accessor :name
   
